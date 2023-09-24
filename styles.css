@@ -1,0 +1,9 @@
+h1 {
+    color: aqua;
+    display: flex;
+    negative: -o-linear-gradient(1);
+}
+h2 {
+    color: brown;
+    display: flow-root;
+}
